@@ -1,0 +1,65 @@
+
+
+html {
+    font-family: Roboto, sans-serif;
+}
+
+
+*{
+    color: black;
+}
+
+
+h1 {
+    color: blue;
+    margin-bottom: 0.25em;
+}
+
+
+h2 {
+    color: black;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+a {
+    color: blue;
+}
+
+
+
+section {
+    margin-bottom: 3em;
+}
+
+.cv {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.contacts {
+  margin-bottom: 2em;  
+}
+
+.contact {
+display: flex;
+}
+
+.contact__type {
+    min-width: 90px;
+}
+
+.information {
+    display: flex;
+    margin-bottom: 2em;
+}
+
+.information__name {
+     min-width: 185px;
+     margin-bottom: 1em;
+ }
+
+h3 {
+    color: blue;
+}
